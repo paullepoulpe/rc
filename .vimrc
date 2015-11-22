@@ -1,3 +1,8 @@
+" 2 space tabs 
+:set tabstop=2
+:set shiftwidth=2
+:set expandtab
+
 " Use case insensitive search, except when using capital letters
 set ignorecase
 set smartcase
